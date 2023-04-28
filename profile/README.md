@@ -7,4 +7,4 @@
 | [동표](https://github.com/97Kzone) | [하영](https://github.com/hayeongK) | [병훈](https://github.com/thdqudgns) | [찬환](https://github.com/cksghks89) | [혁준](https://github.com/pockypepe) | [창학](https://github.com/leon4652) | [정민](https://github.com/JeongMiiiin) | [수정](https://github.com/sujeong1201) |
 
 
-<img src="https://user-images.githubusercontent.com/92148521/235054241-57927a64-574c-48cc-a40e-a3611beebd11.jpg" width="600px"/>
+<img src="https://user-images.githubusercontent.com/92148521/235054241-57927a64-574c-48cc-a40e-a3611beebd11.jpg" width="800px"/>
